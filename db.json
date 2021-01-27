@@ -1,28 +1,42 @@
 {
     "bg": "https://blog.portalt5.com.br/clapeclapeclape/wp-content/uploads/sites/25/2020/01/super-jesus3.jpg",
     "title":"The quiz of crente",
-    "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+    "description": "O quiz para você que sabe tudo sobre Jesus.",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
+        "image": "https://i.pinimg.com/736x/30/0d/eb/300deb860d56083cf4735661311a09c5.jpg",
+        "title": "Quem morreu na cruz por nós?",
         "description": "Essa é pra aquecer",
-        "answer": 2,
+        "answer": 1,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Homem-aranha",
+          "Jesus cristo",
+          "Homem de ferro",
+          "Thor"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
+        "image": "https://padrepauloricardo.s3.amazonaws.com/uploads/episodio/frame/1687/andando-sobre-as-aguas.jpg",
+        "title": "Quem andou sobre as aguas?",
         "description": "Faz tempo em haha",
-        "answer": 0,
+        "answer": 2,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "Moises",
+           "Noe",
+           "Jesus cristo",
+           "Maria"
+        ]
+      },
+      {
+        "image": "https://i.ytimg.com/vi/zT0aLIBSiDI/hqdefault.jpg",
+        "title": "Onde jesus nasceu?",
+        "description": "Faz tempo em haha",
+        "answer": 2,
+        "alternatives": [
+           "Guadalupe,RJ",
+           "Belem,PA",
+           "Belem,JUDEIA",
+           "Honorio Gurgel,RJ"
         ]
       }
     ],
