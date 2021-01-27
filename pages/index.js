@@ -1,5 +1,4 @@
-import styled from 'styled-components';
-import React, { useState } from 'react';
+import React from 'react';
 import Head from 'next/head';
 import { useRouter } from 'next/router';
 
@@ -23,7 +22,6 @@ import QuizContainer from '../src/components/QuizContainer';
 export default function Home() {
   const router = useRouter();
   const [name, setName] = React.useState('');
-  console.log('retorno do useState', name, setName);
   return (
     <QuizBackground backgroundImage={db.bg}>
       <Head>
@@ -38,11 +36,10 @@ export default function Home() {
             <h1>{db.title}</h1>
           </Widget.Header>
           <Widget.Content>
-            <form onSubmit={function (infosDoEvento) {
+            <form onSubmit={(infosDoEvento) => {
               infosDoEvento.preventDefault();
 
               router.push(`/quiz?name=${name}`);
-              console.log('Fazendo uma submissao por meio do react');
             }}
             >
               <Input
