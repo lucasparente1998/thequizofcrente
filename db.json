@@ -38,6 +38,42 @@
            "Elba Ramalho",
            "Adriano Imperador"
         ]
+      },
+      {
+        "image": "https://sintramdiv.org/wp-content/uploads/2020/11/FLAVIO-1-910x500.jpg",
+        "title": "Quem foi o pioneiro no esquema de rachadinha?",
+        "description": "essa e boa",
+        "answer": 0,
+        "alternatives": [
+           "Flavio Bolsonaro",
+           "Lula",
+           "Dilma",
+           "Eva Vilma"
+        ]
+      },
+      {
+        "image": "https://www.cartooningforpeace.org/wp-content/uploads/2018/10/02-PAULO-CARUSO-BRESIL-ELECTION-PRESIDENTIELLE-BOLSONARO-MILITAIRE-HD-181030-e1540996011807.jpg",
+        "title": "“O erro da ditadura foi torturar e não matar” quem e o autor dessa frase?",
+        "description": "essa é de dar nojo",
+        "answer": 2,
+        "alternatives": [
+           "PT",
+           "PT",
+           "Bolsonaro",
+           "PT"
+        ]
+      },
+      {
+        "image": "https://goias24horas.com.br/wp-content/uploads/2020/09/meme-n.png",
+        "title": "“enganou o povo e segue enganando?",
+        "description": "so de zueira",
+        "answer": 1,
+        "alternatives": [
+           "João Frango",
+           "Bolzonaro",
+           "Zeca Pagodinho",
+           "Felipe Massa"
+        ]
       }
     ],
     "external": [
