@@ -1,42 +1,42 @@
 {
-    "bg": "https://blog.portalt5.com.br/clapeclapeclape/wp-content/uploads/sites/25/2020/01/super-jesus3.jpg",
-    "title":"The quiz of crente",
-    "description": "O quiz para você que sabe tudo sobre Jesus.",
+    "bg": "https://joselitomuller.files.wordpress.com/2020/07/img_8765.jpg?w=715",
+    "title":"The quiz of Bolzonaro",
+    "description": "O quiz para você que odeia bolsominion.",
     "questions": [
       {
-        "image": "https://i.pinimg.com/736x/30/0d/eb/300deb860d56083cf4735661311a09c5.jpg",
-        "title": "Quem morreu na cruz por nós?",
+        "image": "https://www.diariodocentrodomundo.com.br/wp-content/uploads/2020/04/whatsapp-image-2020-04-30-at-07-11-23-1-600x598.jpeg",
+        "title": "Quem tem autoria sobre essa frase:  “Alguns vão morrer? Vão, ué, lamento. É a vida. Você não pode parar uma fábrica de automóveis porque há mortes nas estradas todos os anos”.... Leia mais em https://www.cartacapital.com.br/politica/retrospectiva-as-piores-declaracoes-de-bolsonaro-durante-a-pandemia/. O conteúdo de CartaCapital está protegido pela legislação brasileira sobre direito autoral. Essa defesa é necessária para manter o jornalismo corajoso e transparente de CartaCapital vivo e acessível a todos?",
         "description": "Essa é pra aquecer",
         "answer": 1,
         "alternatives": [
-          "Homem-aranha",
-          "Jesus cristo",
+          "Rita Lee",
+          "Bolzonaro",
           "Homem de ferro",
-          "Thor"
+          "Faustão"
         ]
       },
       {
-        "image": "https://padrepauloricardo.s3.amazonaws.com/uploads/episodio/frame/1687/andando-sobre-as-aguas.jpg",
-        "title": "Quem andou sobre as aguas?",
+        "image": "https://www.redebrasilatual.com.br/wp-content/uploads/2021/01/leite_condensado.jpeg",
+        "title": "Quem gastou 15 milhões com leite condensado ?",
         "description": "Faz tempo em haha",
         "answer": 2,
         "alternatives": [
-           "Moises",
+           "Você mesmo",
            "Noe",
-           "Jesus cristo",
-           "Maria"
+           "Bolzonaro",
+           "Tom Jobim"
         ]
       },
       {
-        "image": "https://i.ytimg.com/vi/zT0aLIBSiDI/hqdefault.jpg",
-        "title": "Onde jesus nasceu?",
-        "description": "Faz tempo em haha",
-        "answer": 2,
+        "image": "https://conteudo.imguol.com.br/c/noticias/0d/2020/12/18/twitter-jacare-e-ana-maria-braga-1608309628072_v2_1061x555.jpg",
+        "title": "Quem disse que se tomar vacina vai virar um jacare?",
+        "description": "adivinhem quem falou essa bosta",
+        "answer": 0,
         "alternatives": [
-           "Guadalupe,RJ",
-           "Belem,PA",
-           "Belem,JUDEIA",
-           "Honorio Gurgel,RJ"
+           "Bolsonaro",
+           "Jesus cristo",
+           "Elba Ramalho",
+           "Adriano Imperador"
         ]
       }
     ],
